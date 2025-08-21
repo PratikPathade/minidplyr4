@@ -4,12 +4,20 @@
 \name{minidplyr4-package}
 \alias{minidplyr4}
 \alias{minidplyr4-package}
-\title{minidplyr4: What the Package Does (One Line, Title Case)}
+\title{minidplyr4: its an dplyr package}
 \description{
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/PratikPathade/minidplyr4}
+  \item Report bugs at \url{https://github.com/PratikPathade/minidplyr4/issues}
+}
+
+}
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: First Last \email{pratikpathade02@example.com}
 
 }
 \keyword{internal}

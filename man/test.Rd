@@ -7,10 +7,14 @@
 test(x, y)
 }
 \arguments{
-\item{x}{}
+\item{x}{A number}
 
-\item{y}{}
+\item{y}{A number}
 }
 \description{
 Title
+}
+\examples{
+test(4,5)
+
 }
