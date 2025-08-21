@@ -1,5 +1,5 @@
 Package: minidplyr4
-Title: What the Package Does (One Line, Title Case)
+Title:its an dplyr package
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
@@ -8,3 +8,5 @@ License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+URL: https://github.com/PratikPathade/minidplyr4
+BugReports: https://github.com/PratikPathade/minidplyr4/issues
