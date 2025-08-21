@@ -11,10 +11,12 @@ test(x, y)
 
 \item{y}{A number}
 }
+\value{
+Addition
+}
 \description{
 Title
 }
 \examples{
 test(4,5)
-
 }

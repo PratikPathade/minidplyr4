@@ -7,10 +7,16 @@
 select(df, i)
 }
 \arguments{
-\item{df}{}
+\item{df}{A data frame}
 
-\item{i}{}
+\item{i}{A column}
+}
+\value{
+Sumbitted data.frame column
 }
 \description{
 Select function
+}
+\examples{
+select(iris,"name")
 }

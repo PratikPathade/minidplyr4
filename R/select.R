@@ -1,16 +1,15 @@
 #' Select function
 #'
-#' @param df 
-#' @param i 
+#' @param df A data frame
+#' @param i A column
 #'
-#' @returns
+#' @returns Sumbitted data.frame column 
 #' @export
 #'
 #' @examples
-#' select(df,"name)
-#' 
+#' select(iris,"name")
 select<- function (df,i) {
-  df[,i,drop=F]
+  df[df,i,drop=F]
 }
 
 
